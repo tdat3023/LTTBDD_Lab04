@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/backgroud.xml" value="0.19054054054054054" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/background_screen03.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/button_background.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/button_yellow.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/checked.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/custom_checkbox.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/edit_text_border.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/drawable/unchecked.xml" value="0.165234375" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_lab03_screen01.xml" value="0.18" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_lab03_screen03_2.xml" value="0.18" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_lab05_screen01.xml" value="0.25" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_lab05_screen02.xml" value="0.25" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_screen02_lab02.xml" value="0.22" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_screen03_lab02.xml" value="0.19" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/activyty_lab03_screen03_1.xml" value="0.22" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/custom_grid_view_example_activity.xml" value="0.153125" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/custom_list_view_activity.xml" value="0.25" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/donut_layout_lab05_screen01.xml" value="0.5" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/home_layout.xml" value="0.25" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/item_custom_grid_view.xml" value="0.22" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/item_custom_list_view.xml" value="0.33" />
+        <entry key="..\:/Users/GMT/AndroidStudioProjects/MyApp/app/src/main/res/layout/lab03_screen03_1.xml" value="0.153125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
